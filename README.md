@@ -10,7 +10,9 @@
 
 3 - Pegue o code e insira junto com seu client id e client secret no arquivo token da 
 pasta get-token-mercado-livre-api\src\main\resources\json
-4 - Rode novamente a aplicação e terá seu token.
-5 - execute na aplicação mercado-livre-app o client referente ao tipo de requisição a 
-ser executada (get ou post) utilizando o token conforme a documentação.
+
+4 - Execute novamente a aplicação e terá seu token em seu console.
+
+5 - agora execute dentro da aplicação mercado-livre-app o client referente ao tipo de requisição que deseja fazer
+(get ou post) utilizando o token conforme a documentação.
 fim.``` 
