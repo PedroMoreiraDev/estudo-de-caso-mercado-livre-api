@@ -15,4 +15,4 @@ pasta get-token-mercado-livre-api\src\main\resources\json
 
 5 - agora execute dentro da aplicação mercado-livre-app o client referente ao tipo de requisição que deseja fazer
 (get ou post) utilizando o token conforme a documentação.
-fim.``` 
+fim.
